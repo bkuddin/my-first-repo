@@ -53,7 +53,7 @@ a[href] {
 .menu-bar ul li:hover .sub-menu-1 {
   display: block;
   position: absolute;
-  background-color: #333;
+  background-color: #6e5494;
   margin-top: 15px;
   margin-left: -15px;
 }
