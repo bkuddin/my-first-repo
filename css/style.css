@@ -75,3 +75,23 @@ body {
 .menu-bar ul li:hover .sub-menu-1 ul li a:hover {
   color: rgb(0, 0, 0);
 }
+
+.article-section {
+  background-color: #333;
+  margin: 30px 170px;
+  border-radius: 8px;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+.article-section h2 {
+  color: #6cc644;
+  margin-bottom: 20px;
+}
+
+.aticle-cover {
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+}
