@@ -99,3 +99,9 @@ a[href] {
   height: 300px;
   object-fit: cover;
 }
+
+.git-logo-1 {
+  width: 200px;
+  background-color: aliceblue;
+  margin: 20px;
+}
