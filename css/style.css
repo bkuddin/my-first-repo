@@ -8,6 +8,10 @@ body {
   background-color: antiquewhite;
 }
 
+a[href] {
+  color: #6cc644;
+}
+
 .menu-bar .fab {
   margin-right: 5px;
 }
